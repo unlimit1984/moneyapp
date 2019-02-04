@@ -14,3 +14,4 @@ Application for cost's calculation
 * Environment(deployment, inmemory DBs?, dev/release)
 
 ?* serverless app
+* test
