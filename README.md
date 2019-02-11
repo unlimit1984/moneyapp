@@ -15,3 +15,6 @@ Application for cost's calculation
 
 ?* serverless app
 * test
+
+##TODO
+* vavr
