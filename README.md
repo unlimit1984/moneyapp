@@ -18,3 +18,4 @@ Application for cost's calculation
 
 ##TODO
 * vavr
+* automatic swagger
